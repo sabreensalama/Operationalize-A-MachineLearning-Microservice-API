@@ -1,4 +1,4 @@
-[![sabreensalama](https://circleci.com/gh/sabreensalama/Operationalize-A-MachineLearning-Microservice-API.svg?style=svg)](https://github.com/sabreensalama/Operationalize-A-Machine-Learning-Microservice-API)
+[![sabreensalama](https://circleci.com/gh/sabreensalama/Operationalize-A-MachineLearning-Microservice-API.svg?style=svg)](https://github.com/sabreensalama/Operationalize-A-MachineLearning-Microservice-API)
 
 # Operationalize-A-MachineLearning-Microservice-API
 
